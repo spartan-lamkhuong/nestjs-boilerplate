@@ -1,0 +1,37 @@
+{
+  "files.associations": {
+    "*.svg": "html"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 2,
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.referencesCodeLens.enabled": false,
+  "cSpell.words": [
+    "adminsdk",
+    "autorun",
+    "deactive",
+    "Fastify",
+    "IDNOW",
+    "JSONAPI",
+    "Leaderboard",
+    "metatype",
+    "mockoptions",
+    "nestjs",
+    "sendgrid",
+    "SENDTRY",
+    "ssut",
+    "Trueprofile",
+    "urljoin",
+    "VERIFLOW"
+  ],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.format.enable": true
+}
